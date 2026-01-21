@@ -31,6 +31,8 @@ python OCIO.py
 ### Oppure installa come pacchetto e avviala con:
 
 ```bash
-pip install OCIO
+pip install .  # dalla cartella del progetto
+ocio           # e parte il programma
+
 ```
 
