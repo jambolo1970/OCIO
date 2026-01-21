@@ -65,3 +65,7 @@ OCIO/
 ├── requirements.txt         # le dipendenze python da installare
 
 └── setup.py                 # per installazione con pip
+
+## 🤝 Contribuire
+
+I contributi sono benvenuti! Sentitevi liberi di inviare una richiesta o di aprire un problema per suggerire miglioramenti o segnalare bug, sarò ben lieto di modificare e migliorare questo programmino python.
