@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OCIO
+Comment=Promemoria per sbattere le palpebre
+Exec=python3 $HOME/OCIO/OCIO.py
+Icon=view-visible
+Terminal=false
+Type=Application
+Categories=Utility;
