@@ -39,3 +39,24 @@ ocio           # e parte il programma
 
 Salvando in ```~/.local/share/applications/ocio.desktop``` comparirà tra le applicazioni e potrà essere avviato con un click.
 oppure copialo sulla scrivania e dai i persmessi ```chmod +x OCIO.desktop``` per lanciarlo direttamente dalla tua scrivania.
+
+### Struttura dell'utility
+OCIO/
+
+│
+
+├── OCIO.py                  # il tuo script principale
+
+├── eye_open.png             # immagine occhio aperto
+
+├── eye_closed.png           # immagine occhio chiuso
+
+├── ocio_settings.json       # generata automaticamente sul proprio PC
+
+├── README.md                # istruzioni di installazione e varie
+
+├── LICENSE                  # Licenza d'uso GPL 3 generata da github
+
+├── requirements.txt         # le dipendenze python
+
+└── setup.py                 # per installazione con pip
