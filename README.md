@@ -35,4 +35,7 @@ pip install .  # dalla cartella del progetto
 ocio           # e parte il programma
 
 ```
+## Il lanciatore
 
+Salvando in ```~/.local/share/applications/ocio.desktop``` comparirà tra le applicazioni e potrà essere avviato con un click.
+oppure copialo sulla scrivania e dai i persmessi ```chmod +x OCIO.desktop``` per lanciarlo direttamente dalla tua scrivania.
