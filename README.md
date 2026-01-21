@@ -1,6 +1,6 @@
 # OCIO
 OCIO è una piccola utility, un promemoria visivo per ricordarti di sbattere le palpebre e prevenire secchezza oculare, in modo visivo.
-una volta c'erano dei simpatici occhi che mettevi sopra lo schermo che indurre a sbattere le palpebre, e visto che non si trovano più, per chi ha la necessità di lavorare molto al PC come nel mio caso, mi sono fatto questa piccola utility.
+Una volta c'erano dei simpatici occhi che mettevi sopra lo schermo per indurre a sbattere le palpebre, visto che non si trovano più, per chi ha la necessità di lavorare molte ore al PC come nel mio caso, mi sono fatto questa piccola utility, ricordatevi comunque che almeno ogni 50 minuti va fatta una pausa almeno di 10 minuti.
 
 ## Caratteristiche
 
