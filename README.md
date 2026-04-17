@@ -17,16 +17,22 @@ L'applicazione è stata creata per OpenSuse, nulla vieta di utilizzare su altri 
 
 ## Installazione
 
-1. Clona il repository:
+1. **Clona il repository:** e estrai lo zip.
 ```bash
 git clone https://github.com/jambolo1970/OCIO.git
 cd OCIO
 ```
 ## Installa le dipendenze
 
-```bash
-pip install -r requirements.txt
-```
+2. **Installa le dipendenze di sistema** (Necessario su Linux per il supporto immagini in Tkinter):
+   - *Ubuntu/Debian:* `sudo apt install python3-pil.imagetk`
+   - *Fedora :* `sudo dnf install python313-Pillow-tk` 
+   - *OpenSUSE:* `sudo zypper in python3-pillow-tk` 
+   
+3. **Installa i requisiti Python**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Avvia l’applicazione 
 
