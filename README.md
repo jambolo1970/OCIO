@@ -45,6 +45,8 @@ ocio           # e parte il programma
 Salvando in ```~/.local/share/applications/OCIO.desktop``` comparirà tra le applicazioni e potrà essere avviato con un click.
 oppure copialo sulla scrivania e dai i persmessi ```chmod +x OCIO.desktop``` per lanciarlo direttamente dalla tua scrivania.
 
+Ho aggiunto il programma ```crea-lanciatore.sh``` che esegue in automatico la parte sopra installando l'utility direttamente nella directory per poi ritrovarsi l'applicazione nel menù.
+
 ### Struttura dell'utility
 OCIO/
 
@@ -63,6 +65,8 @@ OCIO/
 ├── LICENSE                  # Licenza d'uso GPL 3 generata da github - l'utility serve per la propria saltue
 
 ├── requirements.txt         # le dipendenze python da installare
+
+├── crea-lanciatore.sh       # crea il file OCIO.descktop inserendolo direttamente anche nel menu di sistema
 
 └── setup.py                 # per installazione con pip
 
