@@ -1,8 +1,8 @@
-# OCIO
+# OCIO 👁️
 OCIO è una piccola utility, un promemoria visivo per ricordarti di sbattere le palpebre e prevenire secchezza oculare, in modo visivo.
 Una volta c'erano dei simpatici occhi che mettevi sopra lo schermo per indurre a sbattere le palpebre, visto che non si trovano più, per chi ha la necessità di lavorare molte ore al PC come nel mio caso, mi sono fatto questa piccola utility, ricordatevi comunque che almeno ogni 50 minuti va fatta una pausa almeno di 10 minuti.
 
-## Informazioni
+## ℹ️ Informazioni
 
 L'applicazione è stata creata per OpenSuse, nulla vieta di utilizzare su altri sistemi operativi (vedi Windows, Apple) o altre distribuzioni Linux, serve solo python e le dipendenze sotto elencate.
 
@@ -15,7 +15,7 @@ L'applicazione è stata creata per OpenSuse, nulla vieta di utilizzare su altri 
 - Blink (apertura/chiusura occhio) rapido regolabile
 - Intervallo regolabile
 
-## Installazione
+## ⚙️ Installazione
 
 1. **Clona il repository:** e estrai lo zip.
 ```bash
@@ -46,14 +46,14 @@ pip install .  # dalla cartella del progetto
 ocio           # e parte il programma
 
 ```
-## Il lanciatore
+## 🚀 Il lanciatore
 
 Salvando in ```~/.local/share/applications/OCIO.desktop``` comparirà tra le applicazioni e potrà essere avviato con un click.
 oppure copialo sulla scrivania e dai i persmessi ```chmod +x OCIO.desktop``` per lanciarlo direttamente dalla tua scrivania.
 
 Ho aggiunto il programma ```crea-lanciatore.sh``` che esegue in automatico la parte sopra installando l'utility direttamente nella directory per poi ritrovarsi l'applicazione nel menù.
 
-### Struttura dell'utility
+### 🫚 Struttura dell'utility
 OCIO/
 
 ├── OCIO.desktop             # lanciatore da copiare e dare i permessi
