@@ -4,7 +4,7 @@
 #    Nome programma: Crea Lanciatore OCIO
 #    Autore: Gianluca Bolognesi
 #    Versione: Aprile 2026
-#    Descrizione: programma bash per creare un lanciatore ed installarlo nel menu.
+#    Descrizione: programma bash per creare un lanciatore in KDE ed installarlo nel menu.
 #
 
 # --- DEFINIZIONE COLORI ---
